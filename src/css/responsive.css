@@ -1,0 +1,9 @@
+@media(max-width: 496px) {
+    body {
+        background-position: top -600px left -700px, right -650px bottom -600px;
+    }
+
+    .profile-card {
+        width: 325px;
+    }
+}
