@@ -1,4 +1,4 @@
-# Frontend Mentor - Profile card component solution
+# Frontend Mentor | Profile card component solution
 
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -28,8 +28,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/profile-card-component-HS7yxEzunp)
+- Live Site URL: [GitHub Pages](https://eduardo-vinicius-dos-sr.github.io/Profile-card-component/)
 
 ## My process
 
@@ -43,6 +43,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ## Author
 
 - Frontend Mentor - [@Eduardo-Vinicius-dos-SR](https://www.frontendmentor.io/profile/Eduardo-Vinicius-dos-SR)
+
 
 
 # Front-end Style Guide
@@ -75,4 +76,4 @@ Dark gray: hsl(0, 0%, 59%)
 ### Font
 
 - Family: [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans)
-- Weights: 400, 700# Profile-card-component
+- Weights: 400, 700
